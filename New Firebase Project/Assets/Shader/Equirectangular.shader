@@ -1,4 +1,6 @@
-﻿Shader "Custom/Equirectangular" {
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Custom/Equirectangular" {
     Properties {
         _Color ("Main Color", Color) = (1,1,1,1)
         _MainTex ("Diffuse (RGB) Alpha (A)", 2D) = "gray" {}
@@ -31,7 +33,7 @@
                 v2f vert (appdata v)
                 {
                     v2f o;
-                    o.pos = mul(UNITY_MATRIX_MVP, v.vertex);
+                    o.pos = UnityObjectToClipPos(v.vertex);
                     o.normal = v.normal;
                     return o;
                 }
