@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://testing-7cdc4.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">485869862828</string>
+  <string name="google_storage_bucket" translatable="false">testing-7cdc4.appspot.com</string>
+  <string name="project_id" translatable="false">testing-7cdc4</string>
+  <string name="google_api_key" translatable="false">AIzaSyDmruOAMw91bf--KeTuhMz1UuYuKzd2Qj0</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDmruOAMw91bf--KeTuhMz1UuYuKzd2Qj0</string>
+  <string name="google_app_id" translatable="false">1:485869862828:android:1e22a64bd8081fcf</string>
+  <string name="default_web_client_id" translatable="false">485869862828-nl1cvgs9obtkf1bdujn8fr8gqkp403gq.apps.googleusercontent.com</string>
+</resources>
