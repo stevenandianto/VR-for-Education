@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MateriScene.unity
+- path: Assets/ContentScene.unity
   isLoaded: 1
   isActive: 1

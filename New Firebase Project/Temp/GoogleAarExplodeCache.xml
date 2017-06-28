@@ -1,0 +1,101 @@
+<aars>
+  <explodeData>
+    <aar>firebase-app-unity-3.0.3</aar>
+    <modificationTime>2016-12-04T15:00:00.0000000+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/firebase-app-unity-3.0.3.aar</path>
+    <targetAbi>fat</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-auth-10.2.4</aar>
+    <modificationTime>2017-05-30T14:13:52.4700534+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/firebase-auth-10.2.4.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-auth-unity-3.0.3</aar>
+    <modificationTime>2016-12-04T15:00:00.0000000+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/firebase-auth-unity-3.0.3.aar</path>
+    <targetAbi>fat</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>firebase-common-10.2.4</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000+07:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android\firebase-common-10.2.4</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-base-10.2.4</aar>
+    <modificationTime>2017-05-30T14:13:41.7947000+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/play-services-base-10.2.4.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-basement-10.2.4</aar>
+    <modificationTime>2017-05-30T14:13:23.6805435+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/play-services-basement-10.2.4.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>play-services-tasks-10.2.4</aar>
+    <modificationTime>2017-05-30T14:13:36.7450517+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/play-services-tasks-10.2.4.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-annotations-24.0.0</aar>
+    <modificationTime>2017-05-30T14:05:58.9663478+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/support-annotations-24.0.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>support-v4-24.0.0</aar>
+    <modificationTime>2017-05-30T14:06:07.1624216+07:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.firebase.app</bundleId>
+    <path>Assets/Plugins/Android/support-v4-24.0.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
