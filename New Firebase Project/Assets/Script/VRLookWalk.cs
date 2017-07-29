@@ -15,6 +15,7 @@ public class VRLookWalk : MonoBehaviour {
 	public GameObject go;
 
 	public GameObject anothergo;
+
 	//public GameObject go;
 	// Use this for initialization
 	void Start () {
@@ -24,7 +25,7 @@ public class VRLookWalk : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if ((Input.GetButton("Fire1"))&&(!go.activeInHierarchy)&&(!anothergo.activeInHierarchy)) {
+	if ((Input.GetButton("Fire1"))&&(!go.activeInHierarchy)&&(!anothergo.activeInHierarchy)) {
 			moveForward = true;
 			//go.SetActive (false);
 		} else {
